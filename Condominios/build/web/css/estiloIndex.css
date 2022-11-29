@@ -1,0 +1,233 @@
+
+.nav nav li{
+    
+    border: 0px solid red;
+    margin: 0.5rem;
+    text-align: center;
+    display: inline-block;
+  
+    }
+
+.nav nav a{
+text-decoration: none;/*quita el estilo del enlace, subrayado*/
+font-size: 1.5rem;
+color: #c1c1c1;   /*color: #5b647a;*/
+border: 0px solid rgb(0, 0, 0);
+display: block;
+padding: 0.5rem;
+font-weight: bold;
+
+}
+.nav nav a:hover{
+    color: burlywood;
+}
+
+h1{
+    color:white;
+    text-align: center;
+}
+
+form{
+     border: 2.5px solid black;
+     border-radius: 8px;
+     padding-bottom: 2rem;
+     margin: 5rem 0rem 0rem 0rem;
+}
+.cero{
+    display: flex;
+    
+    text-align: center;  
+    padding-bottom: 5rem;
+    color: #c7c1c1;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+.primero{
+    display: flex;
+    
+    text-align: center;  
+    padding-bottom: 5rem;
+    color: #c7c1c1;
+    font-weight: bold;
+    border: 2px solid black;
+ 
+}
+.segundo{
+        display: flex;
+    text-align: center;  
+    padding-bottom: 5rem;
+    color: #c7c1c1;
+    font-weight: bold;
+    border: 2px solid black;
+}
+.entre_seg_ter{
+    display: flex;
+    text-align: center;  
+    padding-bottom: 5rem;
+    color: #c7c1c1;
+    font-weight: bold;
+    border: 2px solid black;
+}
+  
+.tercero{
+     display: flex;
+    text-align: center;  
+    padding-bottom: 5rem;
+    color: #c7c1c1;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+.cuarto{
+     display: flex;
+    text-align: center;  
+    padding-bottom: 5rem;
+    color: #c7c1c1;
+    font-weight: bold;
+    border: 2px solid black; 
+}
+
+table{
+  
+    margin:auto;
+    text-align: left; 
+    border-collapse: separate;
+  
+}
+.cero table td , input{
+     text-align: center;
+    font-size: 1.5rem;
+}
+.primero table td , input{
+    text-align: center;
+    font-size: 1.5rem;
+  
+}
+
+.segundo table td , input{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.entre_seg_ter{
+   text-align: center;
+    font-size: 1.5rem;  
+    
+}
+
+.tercero table td , input{
+  text-align: center;
+    font-size: 1.5rem; 
+}
+.cuarto table td , input{
+  text-align: center;
+    font-size: 1.5rem; 
+}
+
+.btnEnviar{
+ font-size: 1.4rem;
+ height: 2rem;
+ width: 10rem;
+ border-radius: 10px;
+
+
+}
+.btnEnviar:hover{
+    color: rgb(113, 112, 114);
+    background-color: #272B36;
+}
+.AregarD{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.eliminarD{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.ModificarD{
+      
+    width: 40rem;
+    margin: 2rem;
+}
+
+.AregarF{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.eliminarF{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.ModificarF{
+      
+    width: 40rem;
+    margin: 2rem;
+}
+
+.AregarC{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.eliminarC{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.ModificarC{
+      
+    width: 40rem;
+    margin: 2rem;
+}
+
+.AregarA{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.eliminarA{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.ModificarA{
+      
+    width: 40rem;
+    margin: 2rem;
+}
+
+.AregarTD{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.eliminarTD{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.ModificarTD{
+      
+    width: 40rem;
+    margin: 2rem;
+}
+
+.AregarTC{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.eliminarTC{
+     
+    width: 40rem;
+    margin: 2rem;
+}
+.ModificarTC{
+      
+    width: 40rem;
+    margin: 2rem;
+}

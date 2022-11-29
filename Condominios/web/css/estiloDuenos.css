@@ -1,0 +1,45 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22 jun. 2022, 17:08:38
+    Author     : Esteban
+*/
+
+.nav nav li{
+    
+    border: 0px solid red;
+    margin: 0.5rem;
+    text-align: center;
+    display: inline-block;
+  
+    }
+
+.nav nav a{
+text-decoration: none;/*quita el estilo del enlace, subrayado*/
+font-size: 1.5rem;
+color: #c1c1c1;   /*color: #5b647a;*/
+border: 0px solid rgb(0, 0, 0);
+display: block;
+padding: 0.5rem;
+font-weight: bold;
+
+}
+.nav nav a:hover{
+    color: burlywood;
+}
+.primero{
+    border-left: 3px solid white;
+     border-top: 3px solid white;
+      border-right: 3px solid white;
+    
+}
+.p{
+    border-bottom: 3px solid white;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+.principal{
+    color: white;
+}
